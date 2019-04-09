@@ -1,0 +1,4 @@
+59  4 * * * python /home/ubuntu/seatBook/bookSeat.py
+16  8 * * * python /home/ubuntu/seatBook/signIn.py
+02 16 * * 2 pyhton /home/ubuntu/seatBook/signIn.py
+

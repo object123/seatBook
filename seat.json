@@ -1,0 +1,43 @@
+[
+	{
+		"username" : "",
+		"password" : "",
+		"roomId" : "40",
+		"seatNum": "",
+		"seatNum2": "",
+		"time" : [
+
+		
+				{
+					"begin" : "9",
+					"end" : "22"
+				},
+				{
+					"begin" : "16",
+					"end" : "22"
+				},
+				{
+					"begin" : "9",
+					"end" : "22"
+				},
+				{
+					"begin" : "9",
+					"end" : "22"
+				},
+				{
+					"begin" : "9",
+					"end" : "22"
+				},
+				{
+					"begin" : "9",
+					"end" : "22"
+				},
+				{
+					"begin" : "9",
+					"end" : "22"
+				}
+		]
+	},
+
+]
+		
